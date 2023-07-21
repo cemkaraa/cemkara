@@ -1,3 +1,5 @@
 sa
 py güncellendi
 tekrar deneme
+push
+deneme
